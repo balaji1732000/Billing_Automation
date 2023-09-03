@@ -7,6 +7,4 @@ tempfile
 pandas
 json
 requests
-os
-PIL
-io
+numpy
