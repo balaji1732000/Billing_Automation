@@ -3,7 +3,6 @@ pytesseract
 pypdfium2
 streamlit
 pandas
-json
 requests
 numpy
 pillow
